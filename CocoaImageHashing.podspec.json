@@ -15,7 +15,7 @@
     "documentation_url": "http://github.com/ameingast/cocoaimagehashing/README.markdown",
     "platforms": {
         "osx": "10.11",
-        "ios": "9.0"
+        "ios": "8.0"
     },
     "requires_arc": true,
     "frameworks": [ "Foundation" ],
